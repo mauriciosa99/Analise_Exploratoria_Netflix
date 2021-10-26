@@ -15,7 +15,7 @@ Problema:
 Uma empresa que produz séries e filmes quer lançar um novo projeto no mercado de entretenimento, vendo o grande sucesso das plataformas de streaming como a Netflix, os tomadores de decisões necessitam de informações sobre qual material seria mais interessante para começar uma nova produção. Para tal feito o analista de dados possui uma fonte de dados da empresa (Netflix) para extrair informações relevantes e apresenta-las em uma reunião. 
 
 Workflow:
-Preparação dos dados 
+- [x] Preparação dos dados 
 	- [x] Carregar base de dados 
 	- [x] Verificar arquivo (caracteres, colunas...)
 	- [x] Limpeza dos dados
@@ -25,7 +25,7 @@ Preparação dos dados
 	- [x] Criar relacionamentos 
 	- [x] Criar medidas 
    
-Visualização dos dados 
+- [x] Visualização dos dados 
 	- [x] Extrair insights 
 	- [x] Montar modelo do dashboard
 	- [x] Montar principais informações para apresentação no dashboard
